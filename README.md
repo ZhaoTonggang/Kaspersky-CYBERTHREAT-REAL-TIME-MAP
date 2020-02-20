@@ -4,7 +4,7 @@
 
 ## Comment l'Utiliser ?
 
-Avant de cloner le repository, vous aurez besoin d'installer Node.js [Node.js](https://nodejs.org/fr/download/)  Une fois installé sur votre ordinateur. Depuis votre invite de commande :
+Avant de cloner le repository, vous aurez besoin d'installer [Node.js](https://nodejs.org/fr/download/)  Une fois installé sur votre ordinateur. Depuis votre invite de commande :
 
 ```bash
 # Clone this repository
