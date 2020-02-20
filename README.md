@@ -1,5 +1,6 @@
 # Kaspersky CYBERTHREAT REAL-TIME MAP APP
 
+<p align="center"><img src="./app/assets/img/capture.png" width="150px" height="150px" alt=""></p>
 
 
 ## Comment l'Utiliser ?
