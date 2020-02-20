@@ -19,15 +19,12 @@ npm start
 
 ## Compiler le logiciel pour toutes les plateformes !
 
-```bash
-- [Commande]
-# Windows x64    
-npm run dist:win
-#macOS    
-npm run dist:mac
-#Linux x64    
-npm run dist:linux
-```
+| plateformes | Commande             |
+| ----------- | -------------------- |
+| Windows x64 | `npm run dist:win`   |
+| macOS       | `npm run dist:mac`   |
+| Linux x64   | `npm run dist:linux` |
+
 
 ## Resources
 
